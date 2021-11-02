@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Lior Cohen
 - 👀 I’m interested in QA Automation
-- 🌱 I’m currently learning Automation frameworks like Selenium, Appium, Cypress, Postman, Jenkins, TestNG, SoapUI, RestAssured and more...
