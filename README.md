@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Lior Cohen
-- 👀 I’m interested in QA Automation
+
