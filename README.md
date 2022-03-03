@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lior Cohen</h1>
 <h3 align="center">A Graduated Computer Science from Israel</h3>
  
-- 🤖 I’m just finished my project on [Cypress - Swag Labs Website Testing](https://github.com/liorc955/Swag-Labs-Cypress-Project)
-
-- 👨‍💻 I’m currently building a project on [Full Stack Test Automation Framework](https://github.com/liorc955/Automation-Course-Final-Project)
+- 🤖 I’m just finished my project on [Full Stack Test Automation Framework](https://github.com/liorc955/Automation-Course-Final-Project)
 
 - 🌱 I’m currently learning **Automation in various platforms and programming languages**
 
