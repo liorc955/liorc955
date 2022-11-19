@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lior Cohen</h1>
  
-- 🤖 I’m just finished my project on [Full Stack Test Automation Framework](https://github.com/liorc955/Automation-Course-Final-Project)
+- 🤖 I just finished my project on [Test Automation Framework With Python](https://github.com/liorc955/Python-automation)
 
 - 🌱 I’m currently learning **Automation in various platforms and programming languages**
 
