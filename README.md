@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lior Cohen</h1>
  
-- 🤖 I just finished my project on [Test Automation Framework With Python](https://github.com/liorc955/Python-automation)
 
-- 🌱 I’m currently learning **Automation in various platforms and programming languages**
+- 🤖 I’m currently learning **Automation in various platforms and programming languages**
 
 - 📫 How to reach me **liorc955@gmail.com**
 
