@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lior Cohen</h1>
- 
-
-- 🤖 I’m currently learning **Automation in various platforms and programming languages**
 
 - 📫 How to reach me **liorc955@gmail.com**
 
