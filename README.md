@@ -1,6 +1,6 @@
 # 👋 Lior Cohen
 
-### Full Stack Engineer | Systems Builder | Automation
+### Full Stack Engineer
 
 I build end-to-end systems — APIs, integrations, and automation that solve real-world problems.
 
